@@ -44,3 +44,4 @@ O desafio proposto me ajudou a aplicar na prática os conhecimentos aprendidos e
 ![Captura de Tela (73)](https://github.com/user-attachments/assets/0b8f6ef7-3e0f-4e88-9234-9961d19715f3)
 ![Captura de Tela (75)](https://github.com/user-attachments/assets/28731ab4-b9d8-4f49-b39e-b6f2d092292f)
 ![Captura de Tela (78)](https://github.com/user-attachments/assets/3f413023-60fa-4749-8715-f530819d8559)
+![Captura de Tela (77)](https://github.com/user-attachments/assets/965bfa10-f0e3-4a64-a298-e46db4d198c5)
