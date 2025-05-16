@@ -1,0 +1,1 @@
+# -Projeto-Leitor-de-C-digo-de-Barras-com-Valida-o-na-UI
